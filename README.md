@@ -6,31 +6,24 @@ Welcome to the **Heaps Important Questions** repository.
 
 This repository contains a collection of **important Heap data structure questions** frequently asked in coding interviews and competitive programming.
 
-## 📝 Notes
-
-All notes related to Heap concepts, algorithms, and problem-solving approaches will be maintained here.
-
-## 💻 Programming Language
-
-All code implementations and solutions will be provided in **Java**.
 
 ## 🚀 Contents
 
-* 
-* Min Heap & Max Heap
-* 
-* Priority Queue
-* 
-* Kth Largest / Smallest Elements
-* 
-* 
-* 
-* 
+- K_Closest_Element
+- K_LargestElements
+- KClosestPointstotheOrigin
+- Ksortedarray
+- KthSmallest
+- MinimumCostofropes
+- SortArrayByFrequency_GFG
+- Sumofelementsbetweenk1k2smallestelements
+- TopKFrequentElements_347LC
 
 ## 🤝 Queries & Discussions
 
-For any questions, discussions, or updates, feel free to connect on **X (formerly Twitter)**.
+For any questions, discussions, or updates, feel free to connect on **X (https://x.com/vinay_contra)**.
 
 ## 👨‍💻 Author
 
 **CONTRA**
+
