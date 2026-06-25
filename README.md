@@ -16,16 +16,16 @@ All code implementations and solutions will be provided in **Java**.
 
 ## 🚀 Contents
 
-* Heap Basics
+* 
 * Min Heap & Max Heap
-* Heap Operations
+* 
 * Priority Queue
-* Heap Sort
+* 
 * Kth Largest / Smallest Elements
-* Merge K Sorted Arrays/Lists
-* Top K Frequent Elements
-* Median in Data Stream
-* Interview & Competitive Programming Questions
+* 
+* 
+* 
+* 
 
 ## 🤝 Queries & Discussions
 
