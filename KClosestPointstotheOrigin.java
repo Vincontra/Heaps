@@ -2,7 +2,6 @@ import java.util.*;
 public class KClosestPointstotheOrigin {
     //973. K Closest Points to Origin
     public static void main(String[] args) {
-
     }
     public ArrayList<ArrayList<Integer>> kClosest(int[][] points, int k) {
         ArrayList<ArrayList<Integer>>ans=new ArrayList<>();
