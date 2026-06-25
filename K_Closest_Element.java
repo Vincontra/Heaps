@@ -7,7 +7,6 @@ public class K_Closest_Element {
     class Solution {
         public List<Integer> findClosestElements(int[] arr, int k, int x) {
             PriorityQueue<Pair>pq=new PriorityQueue<>(Comparator.reverseOrder());
-
             for(int i=0;i<arr.length;i++){
                 int diff=Math.abs(arr[i]-x);
                 int val=arr[i];
